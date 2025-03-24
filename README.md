@@ -1,6 +1,6 @@
 # Advanced Python Course
 
-Welcome to the **Advanced Python Course** repository! This repository contains materials and code examples for an advanced-level Python programming course.
+This repository contains materials and code examples for an advanced-level Python programming course.
 
 ## Table of Contents
 
